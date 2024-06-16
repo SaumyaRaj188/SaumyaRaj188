@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a python package**
+ 🔭 I’m currently working on **a pcb design**
  
- 🌱 I’m currently learning **Rust**
+ 🌱 I’m currently learning **Embedded C**
 
 💬 Ask me about **Python, Deep Learning, ROS... or anything [here](https://github.com/SaumyaRaj188/SaumyaRaj188/issues)**
 
